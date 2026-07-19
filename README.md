@@ -99,10 +99,8 @@ Best grid parameters: `max_depth=7, max_leaf_nodes=10, min_samples_leaf=5, min_s
 │   └── Movie_classification.csv
 ├── notebooks/
 │   └── decision_tree_pruning_cv_xgboost.ipynb
-├── src/
-│   └── run_pipeline.py
-└── images/
-    └── (exported plots)
+└── src/
+    └── run_pipeline.py
 ```
 
 ## Getting Started
