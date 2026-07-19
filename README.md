@@ -101,8 +101,6 @@ Best grid parameters: `max_depth=7, max_leaf_nodes=10, min_samples_leaf=5, min_s
 │   └── decision_tree_pruning_cv_xgboost.ipynb
 ├── src/
 │   └── run_pipeline.py
-├── reports/
-│   └── assignment_problem_statement.pdf
 └── images/
     └── (exported plots)
 ```
