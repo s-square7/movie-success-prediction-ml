@@ -4,10 +4,9 @@ Regression and classification on a movie-performance dataset, comparing an unpru
 Decision Tree against pre-pruned, post-pruned (cost-complexity), cross-validated and
 XGBoost models.
 
-**Author:** Shuvam Saren
-**Programme:** Summer Training and Internship Programme on ML & Agentic AI
+**Author:** Shuvam Saren  
+**Programme:** Summer Training and Internship Programme on ML & Agentic AI  
 **Organised by:** Electronics & ICT Academy, Indian Institute of Technology Roorkee
-**Module:** Day 18 — Next Step Assignment
 
 ---
 
