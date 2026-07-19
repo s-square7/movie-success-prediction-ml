@@ -105,7 +105,7 @@ Best grid parameters: `max_depth=7, max_leaf_nodes=10, min_samples_leaf=5, min_s
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/movie-success-prediction-ml.git
+git clone https://github.com/s-square7/movie-success-prediction-ml.git
 cd movie-success-prediction-ml
 
 python -m venv venv
